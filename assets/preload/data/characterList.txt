@@ -19,3 +19,10 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+pico-uber
+picodeath-uber
+speaker
+speaker2
+speaker3
+spewaker
+uberkid
